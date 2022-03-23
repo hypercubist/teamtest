@@ -6,4 +6,5 @@ author
 - [x] new point
 - [x] join jun
 - [x] new checkpoint
-- [x] test jun!
+- [x] sub- sub
+
