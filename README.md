@@ -1,2 +1,3 @@
 author
--[x] kim dh
+- [x] kim dh
+- [x] choi yj
