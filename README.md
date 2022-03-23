@@ -5,3 +5,4 @@ author
 - [x] yj working here
 - [x] new point
 - [x] join jun
+- [x] new checkpoint
