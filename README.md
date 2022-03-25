@@ -6,4 +6,4 @@ author
 - [x] new point
 - [x] new checkpoint
 - [x] jun test1
-
+- [x] jun test2
